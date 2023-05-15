@@ -1,0 +1,22 @@
+#map {
+    height: 400px;
+    width: 500px;
+}
+
+li {
+    width: 20%;
+}
+
+ h1 , h2{
+    margin-bottom: 40px;
+    font-size: 60px;
+    text-transform: uppercase;
+
+}
+.showrroom{
+    width: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
